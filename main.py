@@ -1,0 +1,2 @@
+import info
+info = info()
